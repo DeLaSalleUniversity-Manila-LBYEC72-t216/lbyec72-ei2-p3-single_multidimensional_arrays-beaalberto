@@ -1,9 +1,9 @@
 # Activity3-AlbertoB
 
-!['Main.PNG']
+![](Main.PNG)
 
-![Error1.PNG]
+![](Error1.PNG)
 
-![Poly.PNG]
+![](Poly.PNG)
 
-![Error2.PNG]
+![](Error2.PNG)
