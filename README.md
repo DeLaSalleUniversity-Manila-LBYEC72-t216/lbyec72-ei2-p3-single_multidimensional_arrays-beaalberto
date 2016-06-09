@@ -1,6 +1,6 @@
 # Activity3-AlbertoB
 
-![Main.PNG]
+!['Main.PNG']
 
 ![Error1.PNG]
 
