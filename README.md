@@ -30,3 +30,15 @@
 
 ![](Error5.PNG)
 
+Activity 7
+
+![](NewMain.PNG)
+
+![](SumRow.PNG)
+
+![](SumCol.PNG)
+
+![](SumDia.PNG)
+
+![](ErrorDia.PNG)
+
